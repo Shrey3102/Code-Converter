@@ -51,5 +51,5 @@ The test bench simulates the binary-to-Gray code conversion process. It initiali
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/binary-gray-converter.git
+   git clone https://github.com/Shrey3102/binary-gray-converter.git
    cd binary-gray-converter
